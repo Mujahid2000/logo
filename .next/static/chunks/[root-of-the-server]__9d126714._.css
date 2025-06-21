@@ -633,6 +633,10 @@
     margin-top: calc(var(--spacing) * 20);
   }
 
+  .mr-6 {
+    margin-right: calc(var(--spacing) * 6);
+  }
+
   .mr-24 {
     margin-right: calc(var(--spacing) * 24);
   }

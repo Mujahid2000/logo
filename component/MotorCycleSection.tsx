@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/ui/button"
 import { ArrowRight } from "lucide-react"
-import Image from "next/image"
+
 
 export default function MotorcycleSections() {
   return (
@@ -149,7 +149,7 @@ export default function MotorcycleSections() {
                 </Button>
               </div>
             </div>
-            <div className="h-[20px] hidden lg:flex bg-gradient-to-r from-[#043898] via-[#079902] to-[#170041] mt-8"></div>
+            <div className="h-[20px] mr-6 hidden lg:flex bg-gradient-to-r from-[#043898] via-[#079902] to-[#170041] mt-8"></div>
           </div>
         </section>
 
