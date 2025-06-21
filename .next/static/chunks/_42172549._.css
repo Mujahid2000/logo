@@ -1,0 +1,18 @@
+/* [project]/app/banner.css [app-client] (css) */
+.size {
+  clip-path: polygon(36% 0, 100% 0, 100% 100%, 11% 100%);
+}
+
+.my-element {
+  -webkit-box-shadow: -8px 1px 15px 5px #0000003d;
+  box-shadow: -9px 1px 20px 13px #0000003d;
+}
+
+
+/* [project]/component/request.css [app-client] (css) */
+.data-\[size\=default\]\:h-9[data-size="default"] {
+  height: 46px;
+}
+
+
+/*# sourceMappingURL=_42172549._.css.map*/

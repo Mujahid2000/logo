@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Assignment/logo-project/app/banner.css"],"sourcesContent":[".size{\r\nclip-path: polygon(36% 0, 100% 0, 100% 100%, 11% 100%);\r\n\r\n\r\n}\r\n\r\n.my-element {\r\n    -webkit-box-shadow: -8px 1px 15px 5px #0000003d;\r\n    box-shadow: -9px 1px 20px 13px #0000003d;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;AAMA","debugId":null}},
+    {"offset": {"line": 12, "column": 0}, "map": {"version":3,"sources":["file:///C:/Assignment/logo-project/component/request.css"],"sourcesContent":[".data-\\[size\\=default\\]\\:h-9[data-size=\"default\"] {\r\n    height: 46px;\r\n}"],"names":[],"mappings":"AAAA","debugId":null}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/component/request.css"],"sourcesContent":[".data-\\[size\\=default\\]\\:h-9[data-size=\"default\"] {\r\n    height: 46px;\r\n}"],"names":[],"mappings":"AAAA"}}]
+}

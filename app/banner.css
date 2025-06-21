@@ -1,0 +1,17 @@
+.size{
+clip-path: polygon(30% 0%, 100% 0%, 100% 100%, 0% 100%);
+
+
+}
+
+.my-element {
+    -webkit-box-shadow: -8px 1px 15px 5px #0000003d;
+    box-shadow: -9px 1px 20px 13px #0000003d;
+}
+
+@media only screen and (max-width: 600px){
+  .size{
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  } 
+
+}

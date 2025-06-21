@@ -1,0 +1,17 @@
+/* [project]/app/banner.css [app-client] (css) */
+.size {
+  clip-path: polygon(30% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
+
+.my-element {
+  -webkit-box-shadow: -8px 1px 15px 5px #0000003d;
+  box-shadow: -9px 1px 20px 13px #0000003d;
+}
+
+@media only screen and (width <= 600px) {
+  .size {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+}
+
+/*# sourceMappingURL=app_banner_css_f9ee138c._.single.css.map*/
