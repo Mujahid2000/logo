@@ -8,7 +8,7 @@ export default function MobileAppSection() {
           {/* Left Content */}
           <div className="space-y-6">
             {/* Subtitle */}
-            <p className="text-lg font-medium text-blue-600">Lorem Ipsum</p>
+            <p className="text-lg font-medium text-[#1959AC]">Lorem Ipsum</p>
 
             {/* Main Heading */}
             <h2 className="text-4xl font-bold text-gray-900 lg:text-5xl">Lorem Ipsum Dolor Sit Amet</h2>

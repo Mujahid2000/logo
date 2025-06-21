@@ -13,7 +13,7 @@ export default function MotorcycleSections() {
           <div className="grid  grid-cols-1 px-4 items-end  gap-8 lg:grid-cols-2">
             {/* Left Content */}
             <div className="space-y-6  ">
-              <p className="text-sm font-medium text-gray-600 uppercase tracking-wide">NO LIMITS</p>
+              <p className="text-2xl font-medium text-gray-600 uppercase tracking-wide">NO LIMITS</p>
               <h2 className="text-4xl font-bold text-gray-900 lg:text-5xl">LOREM IPSUM DOLOR SIT AMET</h2>
               <div className="flex  ">
                 <div>
@@ -21,7 +21,7 @@ export default function MotorcycleSections() {
                 Lorem ipsum dolor sit amet consectetur. Nisl faucibus vitae porttitor pharetra tempor elit ante. Ipsum
                 lorem.
               </p>
-              <Button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-4 mt-5 rounded-md font-medium flex items-center gap-2">
+              <Button className="bg-[#1959AC] hover:bg-blue-700 text-white px-7 py-4 mt-5 rounded-md font-medium flex items-center gap-2">
                 Lorem Ipsum
                 <ArrowRight className="h-4 w-4" />
               </Button>
@@ -143,7 +143,7 @@ export default function MotorcycleSections() {
                   </div>
                 </div>
 
-                <Button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-sm font-medium flex items-center gap-2">
+                <Button className="bg-[#1959AC] hover:bg-blue-700 text-white px-6 py-3 rounded-sm font-medium flex items-center gap-2">
                   Lorem Ipsum
                   <ArrowRight className="h-4 w-4" />
                 </Button>

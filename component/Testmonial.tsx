@@ -65,7 +65,7 @@ const testimonials = [
 
 export default function TestimonialSlider() {
   return (
-    <section className="bg-gradient-to-br from-blue-600 to-blue-700 py-16 px-4">
+    <section className="bg-[#155ADA] py-16 px-4">
       <div className="mx-auto max-w-7xl">
         {/* Header */}
         <div className="mb-12 flex flex-col items-start justify-between gap-6 lg:flex-row lg:items-center">

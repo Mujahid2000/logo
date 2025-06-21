@@ -145,7 +145,7 @@ export default function FAQSection() {
           </p>
 
           {/* CTA Button */}
-          <Button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-md font-medium flex items-center gap-2 mx-auto">
+          <Button className="bg-[#155ADA] hover:bg-blue-700 text-white px-8 py-3 rounded-md font-medium flex items-center gap-2 mx-auto">
             Lorem Ipsum
             <ArrowRight className="h-4 w-4" />
           </Button>

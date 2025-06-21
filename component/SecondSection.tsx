@@ -16,7 +16,7 @@ const SecondSection: React.FC = () => {
                 <div className="space-y-8">
                   {/* Header */}
                   <div className="space-y-4">
-                    <h3 className="text-blue-600 text-lg font-medium">Lorem ipsum dolor sit</h3>
+                    <h3 className="text-[#1959AC] text-lg font-medium">Lorem ipsum dolor sit</h3>
                     <h2 className="text-4xl font-bold text-black leading-tight">
                       LOREM IPSUM
                       <br />
@@ -75,10 +75,10 @@ const SecondSection: React.FC = () => {
 
                   {/* Action Buttons */}
                   <div className="flex items-center gap-6 pt-4">
-                    <Button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 font-medium">
+                    <Button className="bg-[#1959AC] hover:bg-blue-700 text-white px-6 py-3 font-medium">
                       Lorem ipsum →
                     </Button>
-                    <div className="flex items-center gap-2 text-blue-600">
+                    <div className="flex items-center gap-2 text-[#1959AC]">
                       <Phone className="w-5 h-5" />
                       <span className="font-medium">123456789</span>
                     </div>

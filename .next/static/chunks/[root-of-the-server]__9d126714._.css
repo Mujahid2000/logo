@@ -1388,6 +1388,14 @@
     }
   }
 
+  .bg-\[\#\#1959AC\] {
+    background-color: # #1959ac;
+  }
+
+  .bg-\[\#155ADA\] {
+    background-color: #155ada;
+  }
+
   .bg-\[\#1959AC\] {
     background-color: #1959ac;
   }
@@ -1406,6 +1414,10 @@
 
   .bg-\[\#F8F8F8\] {
     background-color: #f8f8f8;
+  }
+
+  .bg-\[\#\] {
+    background-color: # ;
   }
 
   .bg-\[\#fff\] {
@@ -1582,6 +1594,10 @@
 
   .px-6 {
     padding-inline: calc(var(--spacing) * 6);
+  }
+
+  .px-7 {
+    padding-inline: calc(var(--spacing) * 7);
   }
 
   .px-8 {
@@ -1804,6 +1820,10 @@
 
   .text-\[\#3C3C3C\] {
     color: #3c3c3c;
+  }
+
+  .text-\[\#155ADA\] {
+    color: #155ada;
   }
 
   .text-\[\#222\] {

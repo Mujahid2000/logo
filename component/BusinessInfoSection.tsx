@@ -13,7 +13,7 @@ const BusinessInfoSection: React.FC = () => {
             {/* Left Content */}
             <div className="space-y-8 relative">
               {/* Main Heading */}
-              <h2 className="text-4xl font-bold text-blue-600 lg:text-5xl leading-tight">
+              <h2 className="text-4xl font-bold text-[#1959AC] lg:text-5xl leading-tight">
                 LOREM IPSUM DOLOR SIT AMET CONSECTETUR. DIGNISSIM TELLUS.
               </h2>
 
@@ -26,7 +26,7 @@ const BusinessInfoSection: React.FC = () => {
 
               {/* CTA Button */}
               <button
-                className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-md font-medium flex items-center gap-2 transition-colors"
+                className="bg-[#1959AC] hover:bg-blue-700 text-white px-6 py-3 rounded-md font-medium flex items-center gap-2 transition-colors"
               >
                 Lorem Ipsum
                 <ArrowRight className="h-4 w-4" />
