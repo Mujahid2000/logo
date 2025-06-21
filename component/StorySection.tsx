@@ -9,8 +9,14 @@ import { Pagination, Autoplay, EffectFade } from "swiper/modules"
 import "swiper/css"
 import "swiper/css/pagination"
 import "swiper/css/effect-fade"
-
-const stories = [
+interface Story {
+  id: number
+  title: string
+  description: string
+  image: string
+  ctaText: string
+}
+const stories: Story[] = [
   {
     id: 1,
     title: "Artist & Investor",
@@ -52,7 +58,7 @@ const stories = [
     ctaText: "Read Full Story",
   },
 ]
-export default function StorySection() {
+const StorySection: React.FC = () => {
   // Removed unused activeStory state
 
   return (
@@ -231,3 +237,4 @@ export default function StorySection() {
     </section>
   )
 }
+export default StorySection

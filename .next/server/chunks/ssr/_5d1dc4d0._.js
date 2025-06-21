@@ -38,11 +38,13 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/ui/button.tsx [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/ui/input.tsx [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Check$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/check.js [app-ssr] (ecmascript) <export default as Check>");
+"use client";
 ;
 ;
 ;
 ;
 ;
+// Define the component as a functional component with TypeScript
 const HeroSection = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
@@ -53,7 +55,7 @@ const HeroSection = ()=>{
                     className: "flex flex-col-reverse lg:flex-row gap-5 lg:gap-16 items-center",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "space-y-8 ",
+                            className: "space-y-8",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "space-y-6",
@@ -63,7 +65,7 @@ const HeroSection = ()=>{
                                             children: "Lorem ipsum dolor sit amet"
                                         }, void 0, false, {
                                             fileName: "[project]/component/HeroSection.tsx",
-                                            lineNumber: 16,
+                                            lineNumber: 20,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -71,13 +73,13 @@ const HeroSection = ()=>{
                                             children: "Lorem ipsum dolor sit amet consectetur. Enim netus cras congue quis elit sociis. Sed mi rhoncus id habitant. In urna tellus nisl platea morbi libero imperdiet neque. Justo suspendisse tristique posuere quis eget viverra. Nunc euismod ultrices etiam nulla habitasse."
                                         }, void 0, false, {
                                             fileName: "[project]/component/HeroSection.tsx",
-                                            lineNumber: 18,
+                                            lineNumber: 24,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/component/HeroSection.tsx",
-                                    lineNumber: 15,
+                                    lineNumber: 19,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -91,7 +93,7 @@ const HeroSection = ()=>{
                                                     className: "flex-1 h-12 border-gray-300 bg-white"
                                                 }, void 0, false, {
                                                     fileName: "[project]/component/HeroSection.tsx",
-                                                    lineNumber: 28,
+                                                    lineNumber: 34,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -99,13 +101,13 @@ const HeroSection = ()=>{
                                                     children: "Submit →"
                                                 }, void 0, false, {
                                                     fileName: "[project]/component/HeroSection.tsx",
-                                                    lineNumber: 29,
+                                                    lineNumber: 35,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/component/HeroSection.tsx",
-                                            lineNumber: 27,
+                                            lineNumber: 33,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -117,12 +119,12 @@ const HeroSection = ()=>{
                                                         className: "w-4 h-4 text-white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/component/HeroSection.tsx",
-                                                        lineNumber: 34,
+                                                        lineNumber: 42,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/component/HeroSection.tsx",
-                                                    lineNumber: 33,
+                                                    lineNumber: 41,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -130,25 +132,25 @@ const HeroSection = ()=>{
                                                     children: "No credit card required!"
                                                 }, void 0, false, {
                                                     fileName: "[project]/component/HeroSection.tsx",
-                                                    lineNumber: 36,
+                                                    lineNumber: 44,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/component/HeroSection.tsx",
-                                            lineNumber: 32,
+                                            lineNumber: 40,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/component/HeroSection.tsx",
-                                    lineNumber: 26,
+                                    lineNumber: 32,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/component/HeroSection.tsx",
-                            lineNumber: 14,
+                            lineNumber: 18,
                             columnNumber: 13
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -161,39 +163,39 @@ const HeroSection = ()=>{
                                     className: "w-full lg:h-full lg:object-cover size"
                                 }, void 0, false, {
                                     fileName: "[project]/component/HeroSection.tsx",
-                                    lineNumber: 44,
+                                    lineNumber: 52,
                                     columnNumber: 17
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/component/HeroSection.tsx",
-                                lineNumber: 43,
+                                lineNumber: 51,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/component/HeroSection.tsx",
-                            lineNumber: 42,
+                            lineNumber: 50,
                             columnNumber: 13
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/component/HeroSection.tsx",
-                    lineNumber: 12,
+                    lineNumber: 16,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/component/HeroSection.tsx",
-                lineNumber: 11,
+                lineNumber: 15,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/component/HeroSection.tsx",
-            lineNumber: 10,
+            lineNumber: 14,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/component/HeroSection.tsx",
-        lineNumber: 8,
-        columnNumber: 9
+        lineNumber: 12,
+        columnNumber: 5
     }, this);
 };
 const __TURBOPACK__default__export__ = HeroSection;
@@ -2857,21 +2859,18 @@ function BusinessSection() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "absolute top-9 left-[35%] text-2xl text-gray-300 hidden lg:block",
-                        children: [
-                            " ",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                src: "https://res.cloudinary.com/diez3alve/image/upload/v1750451124/Untitled-1-removebg-preview_dny2or.png",
-                                alt: "",
-                                className: "w-[64%] h-[64%]"
-                            }, void 0, false, {
-                                fileName: "[project]/component/BusinessSelection.tsx",
-                                lineNumber: 54,
-                                columnNumber: 94
-                            }, this)
-                        ]
-                    }, void 0, true, {
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                            src: "https://res.cloudinary.com/diez3alve/image/upload/v1750451124/Untitled-1-removebg-preview_dny2or.png",
+                            alt: "Decorative icon",
+                            className: "w-[64%] h-[64%]"
+                        }, void 0, false, {
+                            fileName: "[project]/component/BusinessSelection.tsx",
+                            lineNumber: 65,
+                            columnNumber: 13
+                        }, this)
+                    }, void 0, false, {
                         fileName: "[project]/component/BusinessSelection.tsx",
-                        lineNumber: 54,
+                        lineNumber: 64,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2882,32 +2881,32 @@ function BusinessSection() {
                                 children: "LOREM IPSUM DOLOR SIT AMET"
                             }, void 0, false, {
                                 fileName: "[project]/component/BusinessSelection.tsx",
-                                lineNumber: 60,
+                                lineNumber: 75,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "flex  flex-wrap",
+                                className: "flex flex-wrap",
                                 children: tabs.map((tab)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         onClick: ()=>setActiveTab(tab.id),
-                                        className: `relative px-4 w-40 py-2 border  border-[#CBD5E1] text-lg font-medium transition-colors ${activeTab === tab.id ? "text-gray-900 bg-[#F1F5F9]" : "text-gray-500 hover:text-gray-700"} ${tab.id === 'research' ? "rounded-l-md" : ""} ${tab.id === 'design' ? 'rounded-r-md' : ''}`,
+                                        className: `relative px-4 w-40 py-2 border border-[#CBD5E1] text-lg font-medium transition-colors ${activeTab === tab.id ? "text-gray-900 bg-[#F1F5F9]" : "text-gray-500 hover:text-gray-700"} ${tab.id === "research" ? "rounded-l-md" : ""} ${tab.id === "design" ? "rounded-r-md" : ""}`,
                                         children: [
                                             tab.label,
                                             activeTab === tab.id && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "absolute bottom-0 left-0 h-0.5 w-full "
+                                                className: "absolute bottom-0 left-0 h-0.5 w-full"
                                             }, void 0, false, {
                                                 fileName: "[project]/component/BusinessSelection.tsx",
-                                                lineNumber: 73,
+                                                lineNumber: 88,
                                                 columnNumber: 44
                                             }, this)
                                         ]
                                     }, tab.id, true, {
                                         fileName: "[project]/component/BusinessSelection.tsx",
-                                        lineNumber: 65,
+                                        lineNumber: 80,
                                         columnNumber: 17
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/component/BusinessSelection.tsx",
-                                lineNumber: 63,
+                                lineNumber: 78,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2915,7 +2914,7 @@ function BusinessSection() {
                                 children: currentTab.description
                             }, void 0, false, {
                                 fileName: "[project]/component/BusinessSelection.tsx",
-                                lineNumber: 79,
+                                lineNumber: 94,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -2927,19 +2926,19 @@ function BusinessSection() {
                                         className: "h-4 w-4"
                                     }, void 0, false, {
                                         fileName: "[project]/component/BusinessSelection.tsx",
-                                        lineNumber: 87,
+                                        lineNumber: 102,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/component/BusinessSelection.tsx",
-                                lineNumber: 82,
+                                lineNumber: 97,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/component/BusinessSelection.tsx",
-                        lineNumber: 58,
+                        lineNumber: 73,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2954,33 +2953,33 @@ function BusinessSection() {
                                 className: "h-full w-full object-cover transition-opacity duration-300"
                             }, void 0, false, {
                                 fileName: "[project]/component/BusinessSelection.tsx",
-                                lineNumber: 94,
+                                lineNumber: 109,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/component/BusinessSelection.tsx",
-                            lineNumber: 93,
+                            lineNumber: 108,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/component/BusinessSelection.tsx",
-                        lineNumber: 92,
+                        lineNumber: 107,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/component/BusinessSelection.tsx",
-                lineNumber: 52,
+                lineNumber: 62,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/component/BusinessSelection.tsx",
-            lineNumber: 51,
+            lineNumber: 61,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/component/BusinessSelection.tsx",
-        lineNumber: 50,
+        lineNumber: 60,
         columnNumber: 5
     }, this);
 }
@@ -2991,19 +2990,21 @@ function BusinessSection() {
 var { g: global, __dirname } = __turbopack_context__;
 {
 __turbopack_context__.s({
-    "default": (()=>BusinessInfoSection)
+    "default": (()=>__TURBOPACK__default__export__)
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/arrow-right.js [app-ssr] (ecmascript) <export default as ArrowRight>");
+"use client";
 ;
 ;
-function BusinessInfoSection() {
+// Define the component as a functional component with TypeScript
+const BusinessInfoSection = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        className: " lg:my-45  py-20 px-4",
+        className: "lg:my-45 py-20 px-4",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "bg-gray-50",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "mx-auto    max-w-7xl ",
+                className: "mx-auto max-w-7xl",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "grid grid-cols-1 bg-gray-50 items-start gap-16 lg:grid-cols-2 py-30",
@@ -3016,16 +3017,16 @@ function BusinessInfoSection() {
                                         children: "LOREM IPSUM DOLOR SIT AMET CONSECTETUR. DIGNISSIM TELLUS."
                                     }, void 0, false, {
                                         fileName: "[project]/component/BusinessInfoSection.tsx",
-                                        lineNumber: 13,
-                                        columnNumber: 13
+                                        lineNumber: 16,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-lg text-gray-600 leading-relaxed",
                                         children: "Lorem ipsum dolor sit amet consectetur. In malesuada morbi mi blandit laoreet urna sapien quam pulvinar. Dolor aliquet est tortor tincidunt ultricies feugiat mauris. Aliquam platea turpis porta nisl felis. Massa in facilisis semper libero eget eu quisque bibendum platea. Tortor fames."
                                     }, void 0, false, {
                                         fileName: "[project]/component/BusinessInfoSection.tsx",
-                                        lineNumber: 18,
-                                        columnNumber: 13
+                                        lineNumber: 21,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         className: "bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-md font-medium flex items-center gap-2 transition-colors",
@@ -3035,32 +3036,32 @@ function BusinessInfoSection() {
                                                 className: "h-4 w-4"
                                             }, void 0, false, {
                                                 fileName: "[project]/component/BusinessInfoSection.tsx",
-                                                lineNumber: 27,
-                                                columnNumber: 15
+                                                lineNumber: 32,
+                                                columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/component/BusinessInfoSection.tsx",
-                                        lineNumber: 25,
-                                        columnNumber: 13
+                                        lineNumber: 28,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                             className: "hidden lg:absolute z-40 left-7 lg:left-104",
                                             src: "https://res.cloudinary.com/diez3alve/image/upload/v1750487173/icons8-push-pin-100_1_i4kvqb.png",
-                                            alt: ""
+                                            alt: "Push pin icon"
                                         }, void 0, false, {
                                             fileName: "[project]/component/BusinessInfoSection.tsx",
-                                            lineNumber: 30,
+                                            lineNumber: 35,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/component/BusinessInfoSection.tsx",
-                                        lineNumber: 29,
-                                        columnNumber: 13
+                                        lineNumber: 34,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "bg-white rounded-lg max-w-md ml-7 p-8 shadow-sm  lg:absolute ",
+                                        className: "bg-white rounded-lg max-w-md ml-7 p-8 shadow-sm lg:absolute",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "space-y-6",
                                             children: [
@@ -3069,8 +3070,8 @@ function BusinessInfoSection() {
                                                     children: "Lorem ipsum dolor sit"
                                                 }, void 0, false, {
                                                     fileName: "[project]/component/BusinessInfoSection.tsx",
-                                                    lineNumber: 37,
-                                                    columnNumber: 17
+                                                    lineNumber: 45,
+                                                    columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "space-y-4 text-gray-600",
@@ -3079,92 +3080,92 @@ function BusinessInfoSection() {
                                                             children: "Lorem ipsum dolor sit amet consectetur. Habitant vestibulum vitae amet habitasse semper."
                                                         }, void 0, false, {
                                                             fileName: "[project]/component/BusinessInfoSection.tsx",
-                                                            lineNumber: 40,
-                                                            columnNumber: 19
+                                                            lineNumber: 48,
+                                                            columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             children: "Lorem ipsum dolor sit amet consectetur. Egestas congue mattis ut placerat vitae amet suspendisse fermentum velit. Nibh dolor nunc id tristique sit."
                                                         }, void 0, false, {
                                                             fileName: "[project]/component/BusinessInfoSection.tsx",
-                                                            lineNumber: 42,
-                                                            columnNumber: 19
+                                                            lineNumber: 50,
+                                                            columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             children: "Lorem ipsum dolor sit amet consectetur. Hac netus consectetur amet quisque scelerisque facilisi. Ultrices lectus viverra pharetra commodo."
                                                         }, void 0, false, {
                                                             fileName: "[project]/component/BusinessInfoSection.tsx",
-                                                            lineNumber: 47,
-                                                            columnNumber: 19
+                                                            lineNumber: 55,
+                                                            columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/component/BusinessInfoSection.tsx",
-                                                    lineNumber: 39,
-                                                    columnNumber: 17
+                                                    lineNumber: 47,
+                                                    columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/component/BusinessInfoSection.tsx",
-                                            lineNumber: 36,
-                                            columnNumber: 15
+                                            lineNumber: 44,
+                                            columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/component/BusinessInfoSection.tsx",
-                                        lineNumber: 33,
-                                        columnNumber: 11
+                                        lineNumber: 42,
+                                        columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/component/BusinessInfoSection.tsx",
-                                lineNumber: 11,
-                                columnNumber: 11
+                                lineNumber: 14,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                     src: "https://res.cloudinary.com/diez3alve/image/upload/v1750481009/Section10-Image_f8a47g.png",
                                     alt: "Business professionals discussing motorcycle services",
                                     className: "max-h-[570px] w-full lg:max-w-[570px] object-cover lg:absolute lg:-mt-45"
                                 }, void 0, false, {
                                     fileName: "[project]/component/BusinessInfoSection.tsx",
-                                    lineNumber: 60,
-                                    columnNumber: 13
+                                    lineNumber: 66,
+                                    columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/component/BusinessInfoSection.tsx",
-                                lineNumber: 59,
-                                columnNumber: 11
+                                lineNumber: 65,
+                                columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/component/BusinessInfoSection.tsx",
-                        lineNumber: 9,
-                        columnNumber: 9
+                        lineNumber: 12,
+                        columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "max-w-full hidden lg:flex mr-24  h-4 bg-[linear-gradient(90deg,_#043898_0%,_#079902_45.96%,_#170041_91.18%)] "
+                        className: "max-w-full hidden lg:flex mr-24 h-4 bg-[linear-gradient(90deg,_#043898_0%,_#079902_45.96%,_#170041_91.18%)]"
                     }, void 0, false, {
                         fileName: "[project]/component/BusinessInfoSection.tsx",
-                        lineNumber: 68,
-                        columnNumber: 9
+                        lineNumber: 73,
+                        columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/component/BusinessInfoSection.tsx",
-                lineNumber: 8,
-                columnNumber: 7
+                lineNumber: 11,
+                columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/component/BusinessInfoSection.tsx",
-            lineNumber: 7,
-            columnNumber: 9
+            lineNumber: 10,
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/component/BusinessInfoSection.tsx",
-        lineNumber: 6,
+        lineNumber: 9,
         columnNumber: 5
     }, this);
-}
+};
+const __TURBOPACK__default__export__ = BusinessInfoSection;
 }}),
 "[project]/component/StorySection.tsx [app-ssr] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
@@ -3172,7 +3173,7 @@ function BusinessInfoSection() {
 var { g: global, __dirname } = __turbopack_context__;
 {
 __turbopack_context__.s({
-    "default": (()=>StorySection)
+    "default": (()=>__TURBOPACK__default__export__)
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/styled-jsx/style.js [app-ssr] (ecmascript)");
@@ -3232,7 +3233,7 @@ const stories = [
         ctaText: "Read Full Story"
     }
 ];
-function StorySection() {
+const StorySection = ()=>{
     // Removed unused activeStory state
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         className: "jsx-7fcc832e2643336" + " " + "bg-white py-20 px-4",
@@ -3279,7 +3280,7 @@ function StorySection() {
                                 children: "LOREM IPSUM DOLOR SIT AMET"
                             }, void 0, false, {
                                 fileName: "[project]/component/StorySection.tsx",
-                                lineNumber: 69,
+                                lineNumber: 75,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -3303,13 +3304,13 @@ function StorySection() {
                                 children: "Aliquet sed nulla tincidunt pulvinar sed fames sit facilisis dictumst. Ornare faucibus quis velit fringilla aliquam ultricies. Malesuada ut aliquam at ac est nisl, interdum etiam dignissim. Sed ut vestibulum eget purus ornare. Risus elit et fringilla habitant ut facilisi."
                             }, void 0, false, {
                                 fileName: "[project]/component/StorySection.tsx",
-                                lineNumber: 78,
+                                lineNumber: 84,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/component/StorySection.tsx",
-                        lineNumber: 62,
+                        lineNumber: 68,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -3384,17 +3385,17 @@ function StorySection() {
                                                             className: "h-full w-full object-cover"
                                                         }, void 0, false, {
                                                             fileName: "[project]/component/StorySection.tsx",
-                                                            lineNumber: 133,
+                                                            lineNumber: 139,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/component/StorySection.tsx",
-                                                        lineNumber: 132,
+                                                        lineNumber: 138,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/component/StorySection.tsx",
-                                                    lineNumber: 126,
+                                                    lineNumber: 132,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -3437,7 +3438,7 @@ function StorySection() {
                                                                 children: story.title
                                                             }, void 0, false, {
                                                                 fileName: "[project]/component/StorySection.tsx",
-                                                                lineNumber: 155,
+                                                                lineNumber: 161,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -3456,7 +3457,7 @@ function StorySection() {
                                                                 children: story.description
                                                             }, void 0, false, {
                                                                 fileName: "[project]/component/StorySection.tsx",
-                                                                lineNumber: 163,
+                                                                lineNumber: 169,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].a, {
@@ -3482,40 +3483,40 @@ function StorySection() {
                                                                         className: "h-4 w-4"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/component/StorySection.tsx",
-                                                                        lineNumber: 180,
+                                                                        lineNumber: 186,
                                                                         columnNumber: 25
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/component/StorySection.tsx",
-                                                                lineNumber: 171,
+                                                                lineNumber: 177,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/component/StorySection.tsx",
-                                                        lineNumber: 150,
+                                                        lineNumber: 156,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/component/StorySection.tsx",
-                                                    lineNumber: 144,
+                                                    lineNumber: 150,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/component/StorySection.tsx",
-                                            lineNumber: 124,
+                                            lineNumber: 130,
                                             columnNumber: 17
                                         }, this)
                                     }, story.id, false, {
                                         fileName: "[project]/component/StorySection.tsx",
-                                        lineNumber: 123,
+                                        lineNumber: 129,
                                         columnNumber: 15
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/component/StorySection.tsx",
-                                lineNumber: 99,
+                                lineNumber: 105,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3524,24 +3525,24 @@ function StorySection() {
                                     className: "jsx-7fcc832e2643336" + " " + "story-swiper-pagination flex gap-3 justify-center"
                                 }, void 0, false, {
                                     fileName: "[project]/component/StorySection.tsx",
-                                    lineNumber: 191,
+                                    lineNumber: 197,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/component/StorySection.tsx",
-                                lineNumber: 190,
+                                lineNumber: 196,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/component/StorySection.tsx",
-                        lineNumber: 92,
+                        lineNumber: 98,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/component/StorySection.tsx",
-                lineNumber: 60,
+                lineNumber: 66,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -3551,10 +3552,11 @@ function StorySection() {
         ]
     }, void 0, true, {
         fileName: "[project]/component/StorySection.tsx",
-        lineNumber: 59,
+        lineNumber: 65,
         columnNumber: 5
     }, this);
-}
+};
+const __TURBOPACK__default__export__ = StorySection;
 }}),
 "[project]/component/FaqSection.tsx [app-ssr] (ecmascript)": ((__turbopack_context__) => {
 "use strict";

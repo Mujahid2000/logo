@@ -2,7 +2,7 @@ import { Button } from '@/components/ui/button';
 import { Phone } from 'lucide-react';
 import React from 'react';
 
-const SecondSection = () => {
+const SecondSection: React.FC = () => {
     return (
         <div>
             {/* Second Section - Pixel Perfect */}
