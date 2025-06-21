@@ -5,7 +5,17 @@ import { Button } from "@/components/ui/button"
 import { ArrowRight, Plus, Minus } from "lucide-react"
 import { motion, AnimatePresence } from "framer-motion"
 
-const faqData = [
+// Define the interface for FAQ data
+interface FAQ {
+  id: number
+  question: string
+  answer: string
+}
+
+// Define the interface for the existing Data (if needed elsewhere)
+
+
+const faqData: FAQ[] = [
   {
     id: 1,
     question: "Lorem ipsum dolor sit amet consectetur?",
@@ -63,7 +73,7 @@ export default function FAQSection() {
 
           {/* FAQ Items */}
           <div className="space-y-0">
-            {faqData.map((faq, index) => (
+            {faqData.map((faq: FAQ, index: number) => (
               <motion.div
                 key={faq.id}
                 className="border-b border-gray-200 last:border-b-0"
